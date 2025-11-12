@@ -1,0 +1,35 @@
+<svg viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+	<!-- Background -->
+	<rect width="800" height="800" fill="#352025"/>
+	
+	<!-- Spiral-like curves -->
+	<path d="M 400,400 Q 500,350 550,400 T 600,500"
+		  fill="none" stroke="#583d48" stroke-width="6" opacity="0.6"/>
+	<path d="M 200,200 Q 250,150 300,200 T 350,300"
+		  fill="none" stroke="#4d2f3d" stroke-width="5" opacity="0.5"/>
+	
+	<!-- Overlapping circles -->
+	<circle cx="300" cy="600" r="90" fill="#503640" opacity="0.6"/>
+	<circle cx="350" cy="630" r="80" fill="#452d38" opacity="0.5"/>
+	
+	<!-- Abstract petal shapes -->
+	<path d="M 600,300 Q 650,250 700,300 Q 650,350 600,300 Z"
+		  fill="#603d50" opacity="0.7"/>
+	<path d="M 100,450 Q 150,400 200,450 Q 150,500 100,450 Z"
+		  fill="#584050" opacity="0.6"/>
+	
+	<!-- Zigzag pattern -->
+	<path d="M 500,650 L 550,600 L 600,650 L 650,600 L 700,650"
+		  fill="none" stroke="#4a3340" stroke-width="4" opacity="0.5"/>
+	
+	<!-- Teardrop shapes -->
+	<path d="M 150,150 Q 150,100 180,120 Q 210,100 210,150 Q 180,180 150,150 Z"
+		  fill="#503848" opacity="0.7"/>
+	
+	<!-- Hexagon -->
+	<polygon points="700,700 740,680 780,700 780,740 740,760 700,740" fill="#3d2d40" opacity="0.6"/>
+	
+	<!-- Curved band -->
+	<path d="M 0,100 Q 100,80 200,100 T 400,100 L 400,130 Q 300,150 200,130 T 0,130 Z"
+		  fill="#604050" opacity="0.5"/>
+</svg>

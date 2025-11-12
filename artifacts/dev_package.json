@@ -1,14 +1,14 @@
 {
-	"id": "511ab42a-f675-4e0f-ba81-19c10372479c",
-	"createdAt": "2025-10-24T06:55:43.853Z",
+	"id": "24fa86db-54df-49df-950b-cc2a5077e55f",
+	"createdAt": "2025-11-07T08:22:24.053Z",
 	"createdBy": "morten@neptune-software.com",
 	"git": {
 		"remote": "https://github.com/mortenprom/inheritance.git",
 		"branch": "main"
 	},
 	"name": "prom-inheritance",
-	"description": "Neptune Launchpad Layout Inheritance Example",
-	"ver": "25.10.24.0856",
+	"description": null,
+	"ver": "25.11.07.0924",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
@@ -28,11 +28,53 @@
 	"reports": [],
 	"api_authentication": [],
 	"api_group": [],
-	"tile": [],
-	"tile_layout": [],
-	"category": [],
+	"tile": [
+		{
+			"id": "9cb82a72-007e-4bc2-bbc4-f9c759107fc7",
+			"description": "Blue evokes the vastness of sky and ocean, bringing feelings of peace, stability, and confidence. As one of the most universally appreciated colors, it represents communication, intelligence, and reliability. Blue has a calming effect on the mind and body, reducing stress and promoting clarity.",
+			"name": "prom-inheritance-blue"
+		},
+		{
+			"id": "5d6d38a0-1aeb-4cc4-81cd-012e55fc79a0",
+			"description": "Red is the color of fire and blood, commanding attention and evoking strong emotions. It represents love, courage, and determination while also signaling danger and urgency. Red increases heart rate and creates a sense of excitement, making it the most stimulating color in the spectrum.",
+			"name": "prom-inheritance-red"
+		},
+		{
+			"id": "57976632-0bd0-4cca-908d-876869ae0a29",
+			"description": "Green sits at the center of the visible spectrum, creating a natural sense of harmony and equilibrium. Associated with life, freshness, and vitality, it's the color of forests, meadows, and new beginnings. Green symbolizes growth, healing, and environmental consciousness across cultures.",
+			"name": "prom-inheritance-green"
+		},
+		{
+			"id": "578b0876-fffb-4bc2-9ee5-4949d2483acf",
+			"description": "Purple combines the stability of blue with the energy of red, creating a color of sophistication and intrigue. Historically associated with royalty and nobility due to the rarity of purple dyes, it represents wisdom, spirituality, and artistic expression. Purple inspires contemplation and sparks creative thinking.",
+			"name": "prom-inheritance-purple"
+		}
+	],
+	"tile_layout": [
+		{
+			"id": "f433ad51-6b71-45a0-bde8-82224d2ef9c3",
+			"NAME": "prom-inheritance-image-top"
+		},
+		{
+			"id": "dbee89d4-203f-45aa-9f2f-4a18282a7338",
+			"NAME": "prom-inheritance-image-below-title"
+		}
+	],
+	"category": [
+		{
+			"id": "7c6ce4c0-ab16-41b6-a858-173abd8e638e",
+			"description": null,
+			"name": "prom-inheritance-section-one"
+		}
+	],
 	"tilegroup_layout": [],
-	"launchpad": [],
+	"launchpad": [
+		{
+			"id": "eebfe452-9edc-4254-8d77-50b5ca0da540",
+			"name": "prom-inheritance",
+			"description": null
+		}
+	],
 	"launchpad_layout": [],
 	"certificates": [],
 	"role": [],
